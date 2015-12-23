@@ -1,0 +1,8 @@
+﻿Contains a list of files relevant to the application
+Program Files:
+Program.cs1
+
+Data Files:
+player.json
+monsters.json
+items.json
